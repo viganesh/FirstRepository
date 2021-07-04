@@ -4,5 +4,12 @@ more data
 
 more more data
 after adding first branch
+<<<<<<< HEAD
 
 modifying from git locally created branch
+=======
+merge change from main
+
+
+modified from git for git merge
+>>>>>>> main
